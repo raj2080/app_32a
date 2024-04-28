@@ -1,0 +1,5 @@
+npm install -g create-react-app //globally
+
+npx create-react-app (app-name)  //locally
+
+npm i react-router-dom  //installing package
