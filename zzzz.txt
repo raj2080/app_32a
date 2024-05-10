@@ -1,5 +1,19 @@
 npm install -g create-react-app //globally
 
-npx create-react-app (app-name)  //locally
+npx create-react-app app-name  //locally
+
+npm create react-app . 
 
 npm i react-router-dom  //installing package
+
+
+for backend
+npm install express
+
+
+
+front end and and backend (api work starts)
+
+npm install axios
+
+axios : 
